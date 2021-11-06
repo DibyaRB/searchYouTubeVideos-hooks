@@ -16,3 +16,4 @@ Uses Youtube API to aggregate data.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+Migrating class based components to functional component.
